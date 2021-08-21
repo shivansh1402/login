@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper{
+    background-color: #bf7fbf;
+    padding: 20px 8px;
+    margin: 20px auto;
+    justify-items: center;
+    border-radius: 10px;
+    width: max-content;
+    color: white;
+}
+
+.input{
+    display: block;  
+    margin: 15px auto;
+    width: 350px;
+    height: 40px;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.button{
+    margin: 8px auto;
+    padding: 10px;
+    border-radius: 4px;
+    position: relative;
+}

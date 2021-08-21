@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-color: #a64ca6;
+    padding: 20px 8px;
+    margin: 5px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+    justify-items: left;
+    border-radius: 10px;
+}
